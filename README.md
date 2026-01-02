@@ -1,6 +1,6 @@
 # XO-Game
 
-![todo](https://github.com/user-attachments/assets/0761bb95-3ea0-4e6c-99af-e3a6330b47a0)
+![todo](https://github.com/user-attachments/assets/29f596e6-416c-45b7-8eda-c57b36e41096)
 
   - [Demo Project](https://xo-game-ruby.vercel.app/)
   - 
